@@ -5,14 +5,14 @@ class Dico:
          self.keys = []
          self.values = []
 
-    def get(self, key):
-        @    @q1@@
+    def getStudent(self, key):
+        return 0
 
-    def pop(self, key):
-        @    @q2@@
+    def popStudent(self, key):
+        return 0
 
-    def update(self, key, value):
-        @    @q3@@
+    def updateStudent(self, key, value):
+        return 0
 
     def getCorr(self, key):
         for i in range(len(self.keys)):

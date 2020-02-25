@@ -17,7 +17,7 @@ class Dico:
                 del self.keys[i]
                 del self.values[i]
                 break
-        return ret
+            return ret
 
     def update(self, key, value):
         for i in range(len(self.keys)):
